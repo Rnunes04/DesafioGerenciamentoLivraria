@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RCGGmuSBVc7CrRWqCx9/lQ6a5p/QwMo7SXWpm5ch5Zk=",
+  "Source": "GerenciamentoLivros.Api",
+  "BasePath": "_content/GerenciamentoLivros.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
